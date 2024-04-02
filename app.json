@@ -1,0 +1,12 @@
+{
+    "expo": {
+      "name": "jobsift",
+      "slug": "jobsift",
+      "scheme": "acme",
+      "web": {
+        "bundler": "metro"
+      }
+      
+    }
+  }
+  
