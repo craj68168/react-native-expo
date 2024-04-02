@@ -1,7 +1,7 @@
 {
     "expo": {
-      "name": "jobsift",
-      "slug": "jobsift",
+      "name": "react-native-expo",
+      "slug": "react-native-expo",
       "scheme": "acme",
       "web": {
         "bundler": "metro"
